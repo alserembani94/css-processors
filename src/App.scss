@@ -1,0 +1,11 @@
+.wrapper {
+  background-color: aliceblue;
+  padding: 16px 32px;
+
+  & .title {
+    background-color: red;
+    color: white;
+    padding: 16px 32px;
+    border-radius: 8px;
+  }
+}
